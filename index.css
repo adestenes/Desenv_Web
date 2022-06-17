@@ -1,0 +1,35 @@
+h1{
+    position: relative;
+    text-align: center;
+    padding: 0%;
+    font-weight: bold;
+}
+body{
+    
+}
+.paginas{
+    width: 100%;
+    background-color: #14efe3;
+    height: 100px;
+}
+.cabecalho ul li{
+    padding: 2%;
+    display: inline-block;
+    color: #142aef;
+    margin-left: 5px;
+    height: 50px;
+}
+.cabecalho ul li a{
+    color: blue;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.image1{
+    margin-inline-start: 15%;
+    height: 50%;
+    width: 70%;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
